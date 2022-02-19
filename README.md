@@ -1,1 +1,1 @@
-# AndroydToolKitForMaya
+# AndroydToolKit For Maya
